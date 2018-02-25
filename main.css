@@ -1,0 +1,36 @@
+.row{
+	text-align: center;
+	align-items: center;
+}
+
+.pizza{
+	float: left;
+	display: block;
+	width: 20%;
+	margin: 2%;
+}
+
+.text{
+	float: left;
+	display: block;
+	width: 25%;
+	//margin: 5%,0,2%,0;
+}
+
+.alege, .pret{
+	float: left;
+	display: block;
+
+	width: 13%;
+	margin: 1%;
+}
+
+.button2, .button1{
+	float: left;
+	display: block;
+}
+
+.nr{
+	float: left;
+	display: block;
+}
